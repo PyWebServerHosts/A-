@@ -1,0 +1,9 @@
+init prog 0:(args, main, 1);
+
+internal mk()0:#Libary
+internal ++ "System.Class.PrintScr"
+internal start sys,1,arg:
+System.Class.PrintScr("Welcome! test.")
+init prog end 1@args,main,2
+
+
