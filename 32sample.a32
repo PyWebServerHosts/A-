@@ -1,0 +1,7 @@
+init prog 3:(args, main, 2, bt32);
+
+internal mk()1:#Lib0#Air
+internal ++ #lib,Remote: "System.Internal.Print"
+internal start sys,1,arg:
+System.Internal.Print("Welcome! test.")
+init prog end ?32-bt@args,main,9
